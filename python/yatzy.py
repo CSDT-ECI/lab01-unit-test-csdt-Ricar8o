@@ -228,3 +228,7 @@ class Yatzy:
             return _2_at * 2 + _3_at * 3
         else:
             return 0
+
+    @staticmethod
+    def crazyChange( d1,  d2,  d3,  d4,  d5):
+        return 0
